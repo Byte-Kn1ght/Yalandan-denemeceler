@@ -1,7 +1,0 @@
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\bin\Debug\bakalimm.exe.config
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\bin\Debug\bakalimm.exe
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\bin\Debug\bakalimm.pdb
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\obj\Debug\bakalimm.csproj.AssemblyReference.cache
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\obj\Debug\bakalimm.csproj.CoreCompileInputs.cache
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\obj\Debug\bakalimm.exe
-C:\Users\Muhammet Uyanık\source\c# dosyasi\bakalimm\bakalimm\obj\Debug\bakalimm.pdb
